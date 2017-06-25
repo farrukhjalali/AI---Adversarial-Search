@@ -1,0 +1,1 @@
+# This program is the implementation of famous 2048 game using hueristics and adverserial seraches. Alpha Beta algorithm with pruning has been used. Two simple heuristics i.e. cornerness and highest number possible on the board have been implemented to search for maximum possible score. PLayer AI has been implemented in PLayeAI3.py script. 
